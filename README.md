@@ -24,7 +24,7 @@ cd Audio-File-Desilencer
 ```zsh
 pip install -r requirements.txt
 ```
-4. Put all your audio files into the directory "data"
+4. Put all your audio files into the directory "audios"
 5. Now run the desilencer using the command line:
 By default:
 ```
